@@ -2,5 +2,5 @@
 
 int resta(int a, int b){
 
-	return a - b;
+	return b - a; // b - a fixed
 }
